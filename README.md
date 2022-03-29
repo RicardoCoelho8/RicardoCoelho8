@@ -1,7 +1,7 @@
 ## Hello I'm Ricardo, Back-end Developer and ISEP Student!
 <div align="center">
   <a href="https://github.com/RicardoCoelho8">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardocoelho8&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ricardocoelho8&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocoelho8&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
