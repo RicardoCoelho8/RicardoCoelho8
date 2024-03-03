@@ -1,4 +1,4 @@
-## Hello I'm Ricardo, Back-end Developer and ISEP Student!
+## Hello I'm Ricardo, Software Engineer and ISEP Student!
 <div>
   <a href="https://github.com/RicardoCoelho8">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RicardoCoelho8&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
